@@ -31,11 +31,14 @@ A [report](https://github.com/AbduEhab/Two-wheeled-inverted-pendulum/blob/main/R
 
 ![State chart overview](https://github.com/AbduEhab/Two-wheeled-inverted-pendulum/blob/main/Results/new_state_chart.png)
 
-- The response of the system:
+- The discretized response of the system:
+
+![discretized_response](https://github.com/AbduEhab/Two-wheeled-inverted-pendulum/blob/main/Results/discretized_response.png)
+
+- The angle response of the system:
 
 ![Angle-Performance](https://github.com/AbduEhab/Two-wheeled-inverted-pendulum/blob/main/Results/angle_performance.png)
 
-![discretized_response](https://github.com/AbduEhab/Two-wheeled-inverted-pendulum/blob/main/Results/discretized_response.png)
 
 ![s_performance](https://github.com/AbduEhab/Two-wheeled-inverted-pendulum/blob/main/Results/s_performance.png)
 
