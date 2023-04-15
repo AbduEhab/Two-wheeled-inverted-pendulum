@@ -11,7 +11,7 @@ A [report](https://github.com/AbduEhab/Two-wheeled-inverted-pendulum/blob/main/R
 - [Abdulrahman Ehab](https://github.com/AbduEhab)
 - [Moataz mahmoud](https://github.com/Moataz-0)
 - [Fady Ehab](https://github.com/fad11)
-- Ahmed Solaiman
+- Ahmed Solaiman (Ahmed.soliman@student.guc.edu.eg)
 - Ahmed Shousha
 
 ## Requirements
